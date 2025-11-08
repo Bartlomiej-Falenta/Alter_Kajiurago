@@ -1,3 +1,0 @@
-Verbal system in Alter-Kajiurago utilizes four tenses – past, present, future and Aorist-alternative tense – where first three of them can have also three forms in total: basic, continuous, frequentinative.
-
-[TO EXPAND LATER]
